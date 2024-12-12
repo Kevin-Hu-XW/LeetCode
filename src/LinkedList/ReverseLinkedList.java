@@ -22,6 +22,7 @@ public class ReverseLinkedList {
                 cur=temp;
             }
             head=pre;
+
             return head;
     }
 }
